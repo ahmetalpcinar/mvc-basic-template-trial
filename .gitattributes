@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-* text=autohttps://github.com/ahmetalpcinar/mvc-basic-template-trial/blob/main/.gitattributes
+* text=auto
 *.csharp linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false
