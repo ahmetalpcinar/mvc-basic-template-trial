@@ -12,3 +12,7 @@ Bu proje, ASP.NET Framework MVC ile hazırlanmış, basit bir şablon giydirme d
 - Proje de kullanılan şablon bir kahve mağazasına ait basit bir şablon olarak kabul edilmektedir.
 - Proje üzerinde aktif olarak çalışacak hiçbir kod yoktur.
 - Projeye sonradan dahil edilen site.js kodu, Nav Bar üzerinde ki düğmelerin Aktif olarak görünmesini sağlamaktadır.
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/Images/imageBTT1.png">
+
+<img src="https://github.com/ahmetalpcinar/ahmetalpcinar/blob/main/PNG/Images/imageBTT2.png">
